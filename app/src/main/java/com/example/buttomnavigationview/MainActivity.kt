@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                 }
 
                 R.id.item3 -> {
-                    binding.textView.text = "You are a good programmer"
+                    binding.textView.text = "You are a good programmer!"
                 }
 
                 R.id.item4 -> {
